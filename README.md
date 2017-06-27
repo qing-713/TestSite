@@ -1,2 +1,2 @@
 # sample
-My first project of site.
+My first project of site
